@@ -33,13 +33,13 @@ body {
 
 .resume_section .name {
     text-transform: uppercase;
-    color: #002b7f;
+    color: #f96b05;
     font-size: 2rem;
 }
 
 .resume_section .role {
     text-transform: capitalize;
-    color: #f96b05;
+    color: #05b7f9;
     font-size: 1.2rem;
     font-weight: 500;
     padding-top: 5px;
@@ -87,7 +87,7 @@ body {
 
 .resume_section .li_wrap-outer .left-section {
     width: 12em;
-    color: #002b7f;
+    color: #f96b05;
     padding-right: 0.2em;
 }
 
@@ -95,13 +95,13 @@ body {
     font-size: 1.15rem;
     letter-spacing: 1px;
     font-weight: 600;
-    color: #f96b05;
+    color: #05b7f9;
 }
 
 .resume_section .li_wrap-outer .info_wrapper {
-    width: calc(100% - 12em);
+    width: calc(100% - 10em);
     position: relative;
-    padding-left: 3em;
+    padding-left: 2em;
 }
 
 .resume_section .li_wrap-outer .info_wrapper .info {
@@ -116,7 +116,7 @@ body {
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 2px;
-    color: #002b7f;
+    color: #f96b05;
 }
 
 .resume_section .li_wrap-outer .info_sub-title {
@@ -156,10 +156,10 @@ body {
     content: "";
     position: absolute;
     top: 0.5em;
-    left: 12em;
+    left: 7em;
     width: 1em;
     height: 1em;
-    background-color: #f96b05;
+    background-color: #05b7f9;
     border-radius: 50%;
 }
 
@@ -167,10 +167,10 @@ body {
     content: "";
     position: absolute;
     top: 1.5em;
-    left: 12.37em;
+    left: 7.37em;
     width: 3px;
     height: 98.5%;
-    background-color: #f96b05;
+    background-color: #05b7f9;
 }
 
 .resume_section .education_wrapper {
